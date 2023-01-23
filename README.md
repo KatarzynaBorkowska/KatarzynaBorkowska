@@ -1,5 +1,5 @@
 <h1 align="center">Hello world I'm Katarzyna Borkowska</h1>
-<h3 align="center">I'm a student of computer science at the Military University of Technology in Warszaw</h3>
+<h3 align="center">I'm a student of computer science at the Military University of Technology in Warsaw</h3>
 
 - 🔭 I’m currently working on [Rozpoznawanie-tablic-rejestracyjnych](https://github.com/KatarzynaBorkowska/Rozpoznawanie-tablic-rejestracyjnych)
 
